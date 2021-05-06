@@ -1,0 +1,35 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.hi{
+    width: 180px;
+    height: 40px;
+}
+
+.bro{
+    width: 200px;
+    height: 40px;
+}
+
+#ans{
+    background-color:lightgray ;
+    height:10%;
+    text-align: center;
+   border: 2px dashed blue;
+}
+
+hr{
+height: 2px;
+width: 2000px;
+color: blueviolet;
+font-weight: 400;
+}
+
+#boy{
+    background-color:orange;
+    height: 40px;
+    text-align: center;
+font-family:fantasy;
+}
